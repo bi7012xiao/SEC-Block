@@ -1,2 +1,2 @@
 # SEC-Block
-webpage of SEC-Block Chain
+Your Javascript Gateway to SEC-Block Chain
