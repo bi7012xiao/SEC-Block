@@ -7,7 +7,8 @@
 <h1>Projects</h1>
 
 <div class="repo-group">
-  <h3><i class="fa fa-globe"></i> NETWORK</h3>
-  <p>Implementation of the SEC network communication layer.</p>
-  {% include repository.html name="secjs-devp2p" %}
+  <h3><i class="fa fa-lightbulb-o"></i> DAPP DEVELOPMENT</h3>
+  <p>Libraries and tools to support Dapp development.</p>
+  {% include repository.html name="secjs-util" %}
+
 </div>
