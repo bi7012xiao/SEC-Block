@@ -11,13 +11,22 @@
   {% include repository.html name="secjs-util" %}
 </div>
 
+<div class="repo-group">
+  <h3><i class="fa fa-key"></i> KEY MANAGEMENT</h3>
+  <p>Tools for Ethereum key management and wallet interaction.</p>
+  {% include repository.html name="ethereumjs-wallet" %}
+  {% include repository.html name="keythereum" %}
+  {% include repository.html name="ethereumjs-icap" %}
+  {% include repository.html name="helpeth" %}
+</div>
+
 <div class="separator"></div>
 
 
 <div class="repo-group">
   <h3><i class="fa fa-sitemap"></i> MERKLE TREE</h3>
   <p>Implementation of the core SEC data structure.</p>
-  {% include repository.html name="merkle-patricia-tree" %}
+  <a href=URL"https://github.com/SECblock/secjs-merkle-tree">
 </div>
 
 <div class="separator" style="height:0px;"></div>
