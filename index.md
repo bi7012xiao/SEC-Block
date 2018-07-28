@@ -1,7 +1,6 @@
 
 <div class="intro-text">
-  The <a href="https://github.com/SECblock/">SECblock</a> community builds Javascript tools implementing core <a href="https://www.secblock.io/">SEC</a>
-  technologies, protocols and APIs for helping developers to interact with the <a href="https://www.secblock.io/">SEC</a> network and build their own applications.
+  The <a href="https://github.com/SECblock/">SECblock</a> community builds Javascript tools implementing core SEC technologies, protocols and APIs for helping developers to interact with the <a href="https://www.secblock.io/">SEC</a> network and build their own applications.
 </div> 
 
 <h1>Projects</h1>
@@ -23,7 +22,7 @@
 <div class="separator"></div>
 
 <div class="repo-group">
-  <h3><i class="fa fa-lightbulb-o"></i> DAPP DEVELOPMENT</h3>
+  <h3><i class="fa fa-wrench"></i> UTILITY DEVELOPMENT</h3>
   <p>Libraries and tools to support Dapp development.</p>
   {% include repository.html name="secjs-util" %}
   {% include repository.html name="secjs-datahandler" %}
@@ -31,7 +30,7 @@
 </div>
 
 <div class="repo-group">
-  <h3><i class="fa fa-key"></i> TX MANAGEMENT</h3>
+  <h3><i class="fa fa-balance-scale"></i> TX MANAGEMENT</h3>
   <p>Tools for SEC transaction management and wallet interaction.</p>
   {% include repository.html name="secjs-rlp" %}
       <a href="https://github.com/SECblock/secjs-rlp" target="_blank">secjs-rlp</a>
@@ -46,7 +45,7 @@
 <div class="separator"></div>
 
 <div class="repo-group">
-  <h3><i class="fa fa-cube"></i> BLOCKCHAIN</h3>
+  <h3><i class="fa fa-cubes"></i> BLOCKCHAIN</h3>
   <p>Implementations of the main building blocks of the SEC blockchain.</p>
   {% include repository.html name="secjs-block" %}
       <a href="https://github.com/SECblock/secjs-block" target="_blank">secjs-block</a>
