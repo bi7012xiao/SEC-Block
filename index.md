@@ -25,18 +25,17 @@
   <h3><i class="fa fa-lightbulb-o"></i> DAPP DEVELOPMENT</h3>
   <p>Libraries and tools to support Dapp development.</p>
   {% include repository.html name="secjs-util" %}
-  {% include repository.html name="secjs-rlp" %}
-      <a href="https://github.com/SECblock/secjs-rlp" target="_blank">secjs-rlp</a>
-  {% include repository.html name="secjs-tx" %}
-      <a href="https://github.com/SECblock/secjs-tx" target="_blank">secjs-tx</a>
-
   {% include repository.html name="secjs-datahandler" %}
       <a href="https://github.com/SECblock/secjs-datahandler" target="_blank">secjs-datahandler</a>
 </div>
 
 <div class="repo-group">
-  <h3><i class="fa fa-key"></i> KEY MANAGEMENT</h3>
-  <p>Tools for sec key management and wallet interaction.</p>
+  <h3><i class="fa fa-key"></i> TX MANAGEMENT</h3>
+  <p>Tools for SEC transaction management and wallet interaction.</p>
+  {% include repository.html name="secjs-rlp" %}
+      <a href="https://github.com/SECblock/secjs-rlp" target="_blank">secjs-rlp</a>
+  {% include repository.html name="secjs-tx" %}
+      <a href="https://github.com/SECblock/secjs-tx" target="_blank">secjs-tx</a>
     {% include repository.html name="secjs-wallet" %}
         <a href="https://github.com/SECblock/secjs-wallet" target="_blank">secjs-wallet</a>
     {% include repository.html name="secjs-icap" %}
@@ -47,7 +46,7 @@
 
 <div class="repo-group">
   <h3><i class="fa fa-cube"></i> BLOCKCHAIN</h3>
-  <p>Implementations of the main building blocks of the sec blockchain.</p>
+  <p>Implementations of the main building blocks of the SEC blockchain.</p>
   {% include repository.html name="secjs-block" %}
       <a href="https://github.com/SECblock/secjs-block" target="_blank">secjs-block</a>
   {% include repository.html name="secjs-account" %}
