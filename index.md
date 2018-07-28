@@ -29,12 +29,7 @@
       <a href="https://github.com/SECblock/secjs-rlp" target="_blank">secjs-rlp</a>
   {% include repository.html name="secjs-tx" %}
       <a href="https://github.com/SECblock/secjs-tx" target="_blank">secjs-tx</a>
-  {% include repository.html name="secjs-judge" %}
-      <a href="https://github.com/SECblock/secjs-judge" target="_blank">secjs-judge</a>
-  {% include repository.html name="secjs-vote" %}
-      <a href="https://github.com/SECblock/secjs-vote" target="_blank">secjs-vote</a>
-  {% include repository.html name="secjs-circle" %}
-      <a href="https://github.com/SECblock/secjs-circle" target="_blank">secjs-circle</a>
+
   {% include repository.html name="secjs-datahandler" %}
       <a href="https://github.com/SECblock/secjs-datahandler" target="_blank">secjs-datahandler</a>
 </div>
@@ -70,17 +65,23 @@
       <a href="https://github.com/SECblock/secjs-devp2p" target="_blank">secjs-devp2p</a>
   {% include repository.html name="secjs-group" %}
       <a href="https://github.com/SECblock/secjs-group" target="_blank">secjs-group</a>
+{% include repository.html name="secjs-judge" %}
+      <a href="https://github.com/SECblock/secjs-judge" target="_blank">secjs-judge</a>
+  {% include repository.html name="secjs-vote" %}
+      <a href="https://github.com/SECblock/secjs-vote" target="_blank">secjs-vote</a>
+  {% include repository.html name="secjs-circle" %}
+      <a href="https://github.com/SECblock/secjs-circle" target="_blank">secjs-circle</a>
 </div>
 
 
-<div class="separator" style="height:0px;"></div>
+<!-- <div class="separator" style="height:0px;"></div>
 
 <h1>Use Cases</h1>
 ### Creating an Online Wallet?
 
 ### Creating a Dapp?
 
-### Build for the Web?
+### Build for the Web? -->
 
 <div class="intro-text">
   Welcome to join us on 
