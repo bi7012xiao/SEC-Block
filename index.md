@@ -74,9 +74,9 @@
 </div>
 
 
-<!-- <div class="separator" style="height:0px;"></div>
+ <div class="separator" style="height:0px;"></div>
 
-<h1>Use Cases</h1>
+<!--<h1>Use Cases</h1>
 ### Creating an Online Wallet?
 
 ### Creating a Dapp?
