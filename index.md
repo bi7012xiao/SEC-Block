@@ -1,7 +1,12 @@
 <div class="intro-text">
+  Welcome to join us on 
+    <a href="https://www.secblock.io/">SEC</a> network.
+</div>
+
+<!-- <div class="intro-text">
   The <a href="https://github.com/SECblock/">SECblock</a> community builds Javascript tools implementing core <a href="https://www.secblock.io/">SEC</a>
   technologies, protocols and APIs for helping developers to interact with the <a href="https://www.secblock.io/">SEC</a> network and build their own applications.
-</div>
+</div> -->
 
 <h1>Projects</h1>
 
@@ -82,7 +87,3 @@
 
 ### Build for the Web? -->
 
-<div class="intro-text">
-  Welcome to join us on 
-    <a href="https://www.secblock.io/">SEC</a> network.
-</div>
